@@ -3,5 +3,5 @@ Scrum trainer:
 <ol>
 <liDeveloper:</li>
   <liDeveloper:</li>
-  <ol>
+  </ol>
 Designer:
