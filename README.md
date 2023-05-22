@@ -1,7 +1,7 @@
 # Team Memebers
-##Scrum trainer:
+## Scrum trainer:
 <ol>
-<li>## Developer:</li>
-  <li>## Developer:</li>
+<liDeveloper:</li>
+  <liDeveloper:</li>
   <ol>
-##Designer:
+## Designer:
