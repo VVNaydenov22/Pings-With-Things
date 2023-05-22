@@ -1,4 +1,5 @@
-# Team Memebers
+# Pings with Things
+## 👥Team Memebers
 <ol>
 <li>Developer 1: Boris Rusinov 🟩8v </li>
   <li>Developer 2: Nikolay Jelqzkov 🟥8b </li>
