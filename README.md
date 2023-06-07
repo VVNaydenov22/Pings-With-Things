@@ -20,8 +20,8 @@ Our website is a static HTML website designed to showcase information related to
 The website consists of the following sections:
 
 - **Header:** Displays the website's logo and serves as a navigation bar.
-- **Navigation Bar:** Provides links to different sections of the website, including Home, News, Reviews, Guides, and Contact.
-- **Main Content:** Contains a welcome message, introductory text about the website.
+- **Navigation Bar:** Provides links to different sections of the website, including Home,History and Contact.
+- **Main Content:** Contains information about robots and their uses.
 - **Footer:** Displays copyright information and serves as a closing section for the website.
 
 ## 🔷 Features
@@ -29,9 +29,6 @@ The website consists of the following sections:
 - Responsive design: The website layout adapts to different screen sizes, providing an optimal viewing experience on desktops, tablets, and mobile devices.
 - Stylish and modern: The website features a sleek and clean design with a dark color scheme, making it visually appealing to users.
 - Easy navigation: The navigation bar allows users to quickly access different sections of the website.
-- Latest news section: Provides a list of the latest news items related to technology.
-- Product reviews section: Displays a list of product reviews for users to explore.
-- Guides section: Offers informative guides to help users with various technology-related topics.
 - Footer section: Displays copyright information and adds a professional touch to the website.
 
 ## 🔶 Usage
@@ -39,7 +36,7 @@ The website consists of the following sections:
 To use the Technology Website template, follow these steps:
 
 1. Clone or download the repository to your local machine.
-2. Open the `project.html` file in a web browser.
+2. Open the `index.html` file in a web browser.
 3. Customize the content to suit your needs by modifying the HTML markup.
 4. Replace the placeholder content with your own text, images, and links.
 5. Optionally, modify the CSS styles in the `<style>` section to customize the appearance of the website further.
